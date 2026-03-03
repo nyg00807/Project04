@@ -1,4 +1,4 @@
-<img width="1897" height="944" alt="image" src="https://github.com/user-attachments/assets/aad2026d-9c7c-40f2-a3b2-128b65b892cf" /><img width="1889" height="944" alt="image" src="https://github.com/user-attachments/assets/5f8f0f27-fa72-4802-b497-c943f8d5cf68" /># 포트폴리오 홈페이지 제작
+# 포트폴리오 홈페이지 제작
 <img src="https://github.com/user-attachments/assets/31632544-1297-4614-a703-209cb2e51ed6" width="420"/>
 
 <br><br>
