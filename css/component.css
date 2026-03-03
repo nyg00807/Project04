@@ -1,0 +1,48 @@
+/* ===== font ===== */
+/* 페이퍼로지 */
+@font-face {
+  font-family: 'Paperozi';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-7Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Paperozi';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-display: swap;
+}
+
+h1, h2, h3{
+  font-family: 'Paperozi';
+  letter-spacing: 0;
+}
+h1{ font-size: 56px ;}
+
+body{ 
+  /* font-family: 'NanumSquareLight'; */
+  font-family: 'NanumSquare';
+  /* font-family: 'NanumSquareBold';
+  font-family: 'NanumSquareExtraBold'; */
+}
+
+/* ===== 타이틀 ===== */
+.title--l{ font-size: 80px;}
+.title--m{ font-size: 40px;}
+.title--s{ font-size: 24px;}
+
+/* ===== 변수 설정 =====*/
+:root{
+  /* 컬러 */
+  --skyblue: #15A3EA;
+  --blue: #156AEA;
+  --black: #121212;
+  --white: #ffffff;
+
+  /* 보더 */
+  --border-radius-20: 20px;
+  --border-radius-24: 24px;
+  --border-radius-32: 32px;
+  --border-radius-50: 50px;
+}
