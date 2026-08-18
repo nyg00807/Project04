@@ -1,5 +1,5 @@
 # 포트폴리오 홈페이지 제작
-<img src="https://github.com/user-attachments/assets/31632544-1297-4614-a703-209cb2e51ed6" width="420"/>
+<img src="https://github.com/user-attachments/assets/ff9e31d3-cf73-41d1-a002-9f55b07e16d0" width="420"/>
 
 <br><br>
 
