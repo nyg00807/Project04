@@ -4,7 +4,7 @@
 <br><br>
 
 ## 🔗 Link
-- 💻 [바로가기(web-site)](https://nyg00807.github.io/Project04/)
+- 💻 [바로가기(web-site)](https://nyg00807.github.io/Web_Portfolio/)
 - 🎨 [디자인시안(figma)](https://www.figma.com/design/vtPPn3Ql6VXBgAVpvPZZhI/%EB%82%A8%EC%9C%A4%EC%A7%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=0-1&t=9azFYExCEw77NldN-1)
 
 <br>
